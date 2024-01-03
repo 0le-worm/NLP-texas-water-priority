@@ -33,12 +33,11 @@ I would like to compare frequency of complaint sites to see if many complaints r
 
 I'm interested to study water samples from high priority incident sites before and after complaints are marked 'addressed', to confirm the sites are left in condition equal or better than their original condition.
 
-I hope to explore other possible dataframe features that could have strong predictive power for necessary response. I believe automating a flagging system would greatly assist in response speed and restoration of the environment.
+I hope to explore other possible dataframe features that could have strong predictive power for necessary response.
 
 ## Repository Structure
-├── Data <- Data files used in this project
 
-├── Image <- Images and Graphs used in this project
+├── Images <- Images and Graphs used in this project
 
 ├── .gitignore <- Contains list of files to be ignored from GitHub 
 
