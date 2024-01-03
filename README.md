@@ -1,4 +1,7 @@
-# Act Faster: Predicting Response Priority with NLP Modeling
+# Texas Water Response: Predicting Priority with NLP Modeling
+
+![Image](Images/eutrophication.jpeg)
+
 ## Overview
 For my capstone, I explored three possible NLP models to find the most predictive parameters when trained on unique, text-based complaints submitted to Texas' Commission on Environmental Quality (TXEQ). 
 
