@@ -1,5 +1,4 @@
-# Predicting-Water-Quality-Complaints
-Using machine learning to predict the priority of response to water quality complaints in the state of Texas.
+# Act Faster: Predicting Response Priority with NLP Modeling
 ## Overview
 For my capstone, I explored three possible NLP models to find the most predictive parameters when trained on unique, text-based complaints submitted to Texas' Commission on Environmental Quality (TXEQ). 
 
